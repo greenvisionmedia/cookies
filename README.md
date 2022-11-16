@@ -1,4 +1,4 @@
-# `template`
+# `cookies`
 
-Template to create web plugins in the GV style
+Opt-in or out of cookies in webflow
 [Docs page](greenvision.media/docs/scripting/)
