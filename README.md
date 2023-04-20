@@ -1,4 +1,3 @@
 # `cookies`
 
-Opt-in or out of cookies in webflow
-[Docs page](greenvision.media/docs/scripting/)
+3rd party script, uses [Osano cookie consent](https://www.osano.com/cookieconsent/documentation/about-cookie-consent/). [Docs page](https://greenvision.media/docs/scripting/#cookies)
